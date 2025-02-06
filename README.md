@@ -5,9 +5,9 @@
 Ce projet permet de suivre en temps réel la température et l'humidité optimales d'une plante grâce à un dashboard Node-RED. Les valeurs mesurées sont affichées pour une visualisation facile, et en cas d'urgence (température ou humidité hors seuil optimal).
 
 ## 🛠️ Technologies & Matériel Utilisés
-- Node-RED : Interface graphique pour le monitoring
-- Arduino : Microcontrôleur pour l'acquisition des données
-- Capteur DHT11 : Mesure de la température et de l'humidité
+- **Node-RED** : Interface graphique pour le monitoring
+- **Arduino** : Microcontrôleur pour l'acquisition des données
+- **Capteur DHT11** : Mesure de la température et de l'humidité
 ## 🚀 Fonctionnalités
 ✔ Acquisition des données en temps réel depuis le capteur DHT11
 ✔ Affichage des valeurs sur un dashboard interactif
