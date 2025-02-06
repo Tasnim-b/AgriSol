@@ -10,7 +10,9 @@ Ce projet permet de suivre en temps réel la température et l'humidité optimal
 - **Capteur DHT11** : Mesure de la température et de l'humidité
 ## 🚀 Fonctionnalités
 ✔ Acquisition des données en temps réel depuis le capteur DHT11
+
 ✔ Affichage des valeurs sur un dashboard interactif
+
 ✔ Architecture modulaire et extensible
 
 ## 📸 Aperçu du Dashboard
